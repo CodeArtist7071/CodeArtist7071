@@ -46,7 +46,6 @@
 <br />
 <br />
 
----
 
 ### 📺 Latest YouTube Videos
 
@@ -56,9 +55,6 @@
 
 <!-- YOUTUBE:END -->
 
-
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -70,7 +66,7 @@
 
 
 
----
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
