@@ -12,13 +12,13 @@
 ### Skills in this Prominent section:
 
 
-[<img alt="codeartist7071 | Blender" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg" />][blender]- Blender
+[<img alt="codeartist7071 | Blender" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg" />][blender]  Blender
 
-[<img alt="codeartist7071 | Adobeillustrator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />][adobeillustrator]- Adobe Illustrator
+[<img alt="codeartist7071 | Adobeillustrator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />][adobeillustrator] Adobe Illustrator
 
-[<img alt="codeartist7071 | Adobexd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg" />][adobexd]- Adobe Xd
+[<img alt="codeartist7071 | Adobexd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg" />][adobexd] Adobe Xd
 
-[<img alt="codeartist7071 | Androidstudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />][androidstudio]- Android Studio
+[<img alt="codeartist7071 | Androidstudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />][androidstudio] Android Studio
 <br />
 
 ### Languages and Tools:
