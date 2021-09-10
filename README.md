@@ -3,6 +3,7 @@
 
 
 ##  WEB & UI DEVELOPER AND ANDROID DEVELOPER (JAVA)
+## BLENDER ARTIST
 
 - 🌱 I’m currently learning everything 😁
 - 👯 I’m looking to collaborate with other content creators
