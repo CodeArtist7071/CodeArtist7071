@@ -1,8 +1,10 @@
-### Hi there, I'm Yogeshwar - aka [CodeArtist7071][website] 👋
-
-
 
 ##  WEB & UI DEVELOPER AND ANDROID DEVELOPER (JAVA)
+Hi folks👏<br><br/>
+I'm Yogeshwar - aka [CodeArtist7071][website] 👋
+<br><br/>
+👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX as well in logo designing. I have always have a curiosity in transforming user-focused layouts into awesome and impressive 
+Websites,full fledged working websites.
 ## BLENDER ARTIST
 
 - 🌱 I’m currently learning everything 😁
@@ -64,17 +66,8 @@
 
 
 [website]: https://techbites.co.in
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[blender]:https://www.blender.com/
-[adobexd]:https://www.adobexd.com/
-[androidstudio]: https://www.androidstudio.com/
-[adobeillustrator]: https://www.adobeillustrator.com/
 <br>
 <br/>
 
