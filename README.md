@@ -35,11 +35,17 @@
 ###  My Repositories:
 <br/>
 <a href="https://github.com/CodeArtist7071">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&repo=ecommerce-product-page" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=ecommerce-product-page" />
 </a>
+<br>
 <br/>
 <a href="https://github.com/CodeArtist7071">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&repo=crowdfunding-product-page" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=crowdfunding-product-page" />
+</a>
+<br>
+<br/>
+<a href="https://github.com/CodeArtist7071">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
 </a>
 
 
