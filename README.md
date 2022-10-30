@@ -66,4 +66,4 @@
 <br>
 <br/>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=CodeArtist7071&color=blue"><img/>
+<img align="center" src="https://komarev.com/ghpvc/?username=CodeArtist7071&color=blue&style=for-the-badge"><img/>
