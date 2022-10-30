@@ -3,8 +3,8 @@
 Hi folks👏<br><br/>
 I'm Yogeshwar - aka [CodeArtist7071][website] 👋
 <br><br/>
-👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX as well in logo designing. I have always have a curiosity in transforming user-focused layouts into awesome and impressive 
-Websites,full fledged working websites.
+👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX as well in logo designing. I always have a curiosity in transforming user-focused layouts into awesome and impressive 
+websites,full fledged working websites.
 ## BLENDER ARTIST
 
 - 🌱 I’m currently learning everything 😁
