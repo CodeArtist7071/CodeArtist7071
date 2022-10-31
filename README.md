@@ -7,23 +7,26 @@ I'm Yogeshwar - aka [CodeArtist7071][website] 👋
 websites,full fledged working websites.
 ## BLENDER ARTIST
 
-- 🌱 I’m currently learning everything 😁
+- 🌱 I’m currently learning cloud computing. 😁
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: Sketch Artist🎨🖌️   Aquascaper enthusiacist😋  [Tech Enthusiacist😁][website]
 
-### Skills in this Prominent section:
-
-
-[<img alt="codeartist7071 | Blender" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg" />][blender]  Blender
-
-[<img alt="codeartist7071 | Adobeillustrator" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />][adobeillustrator] Adobe Illustrator
-
-[<img alt="codeartist7071 | Adobexd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg" />][adobexd] Adobe Xd
-
-[<img alt="codeartist7071 | Androidstudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />][androidstudio] Android Studio
+### Tools I used for my projects:
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+<br>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<br>
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+<br>
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<br>
 <br />
-## Technologies i used:
+## Languages I am accquinted with:
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img/>
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img/>
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img/>
@@ -35,14 +38,10 @@ websites,full fledged working websites.
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img/>
 
 
-
-### Languages i am acquainted with:
-
-
+### Most Used languages in my repo:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width:100%; margin-left:auto; margin-right:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArtist7071&langs_count=8&theme=dark&repo=github-readme-stats" />
+  <img align="center" margin-left:auto; margin-right:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeArtist7071&langs_count=8&theme=dark&repo=github-readme-stats" />
 </a>
-
 <br/>
 
 
@@ -52,18 +51,18 @@ websites,full fledged working websites.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=ecommerce-product-page" />
 </a>
 <br>
-<br/>
+<br/>                                                                                                                                    
 <a href="https://github.com/CodeArtist7071/crowdfunding-product-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=crowdfunding-product-page" />
-</a>
+</a>                                                                                                                                            
 <br>
 <br/>
 <a href="https://github.com/CodeArtist7071/food_delivery_trymeal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
 </a>
 
-
-
+                                                                                                                                         
+                                                                                                                                         
 
 [website]: https://techbites.co.in
 [twitter]: https://twitter.com/
