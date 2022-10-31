@@ -52,10 +52,6 @@ websites,full fledged working websites.
 </a>
 <br>
 <br/>                                                                                                                                    
-<a href="https://github.com/CodeArtist7071/crowdfunding-product-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=crowdfunding-product-page" />
-</a>                                                                                                                                            
-<br>
 <br/>
 <a href="https://github.com/CodeArtist7071/food_delivery_trymeal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
