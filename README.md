@@ -56,9 +56,6 @@ websites,full fledged working websites.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
 </a>
 
-                                                                                                                                         
-                                                                                                                                         
-
 [website]: https://techbites.co.in
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
