@@ -3,14 +3,14 @@
 Hi folks👏<br><br/>
 I'm Yogeshwar - aka [CodeArtist7071][website] 👋
 <br><br/>
-👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX as well in logo designing. I always have a curiosity in transforming user-focused layouts into awesome and impressive 
+👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX designer I always have a curiosity in transforming user-focused layouts into awesome and impressive 
 websites,full fledged working websites.
 ## BLENDER ARTIST
 
 - 🌱 I’m currently learning cloud computing. 😁
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Sketch Artist🎨🖌️   Aquascaper enthusiacist😋  [Tech Enthusiacist😁][website]
+- ⚡ Hobbies: Sketch Artist🎨🖌️  #Problem solver(coding) Aquascaper enthusiacist😋  [Tech Enthusiacist😁][website]
 
 ### Tools I used for my projects:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
