@@ -45,14 +45,6 @@ websites,full fledged working websites.
 <br/>
 
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href = "https://github.com/CodeArtist7071/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
-</a>
-
-Made with [contributors-img](https://contrib.rocks).###  My Repositories:
-<br/>
 <a href="https://github.com/CodeArtist7071/ecommerce-product-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=ecommerce-product-page" />
 </a>
