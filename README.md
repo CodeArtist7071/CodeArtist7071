@@ -10,7 +10,7 @@ websites,full fledged working websites.
 - 🌱 I’m currently learning cloud computing. 😁
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Sketch Artist🎨🖌️  Problem solver [coding] Aquascaper enthusiacist😋  [Tech Enthusiacist😁][website]
+- ⚡ Hobbies: Sketch Artist🎨🖌️  Problem solver [coding][website] Aquascaper enthusiacist😋  [Tech Enthusiacist😁][website]
 
 ### Tools I used for my projects:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
