@@ -1,6 +1,6 @@
 
 ##  WEB & UI DEVELOPER AND ANDROID DEVELOPER (JAVA)(KOTLIN)
-Hi folks👏<br><br/>
+Hi Seekers👏<br><br/>
 I'm Yogeshwar - aka [CodeArtist7071][website] 👋
 <br><br/>
 👉 I am a frontend developer by profession,creative coder and self-proclaimed designer in UI/UX designer I always have a curiosity in transforming user-focused layouts into awesome and impressive 
