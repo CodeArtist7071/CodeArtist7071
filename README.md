@@ -60,5 +60,7 @@ websites,full fledged working websites.
 <br>
 <br/>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=CodeArtist7071&color=blue&style=for-the-badge"><img/>
+<img align="center" src="https://komarev.com/ghpvc/?username=CodeArtist7071&color=blue&style=for-the-badge">PROFILE VIEWED<img/>
+
+
 [![CodeArtist7071's GitHub | Stats](https://stats.quine.sh/CodeArtist7071/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CodeArtist7071)
