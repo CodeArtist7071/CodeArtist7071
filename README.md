@@ -54,13 +54,16 @@ websites,full fledged working websites.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
 </a>
 
-[website]: https://techbites.co.in
+[website]: https://codeartistlysn.com
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
 <br>
 <br/>
+
+###My Contribution Stats:
 [![CodeArtist7071's GitHub | Stats](https://stats.quine.sh/CodeArtist7071/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CodeArtist7071)
 <br>
+
 <img align="center" src="https://komarev.com/ghpvc/?username=CodeArtist7071&color=blue&style=for-the-badge"><img/>
 
 
