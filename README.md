@@ -53,7 +53,7 @@ websites,full fledged working websites.
 <a href="https://github.com/CodeArtist7071/food_delivery_trymeal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeArtist7071&theme=dark&repo=food_delivery_trymeal" />
 </a>
-
+[![CodeArtist7071's GitHub | Stats](https://stats.quine.sh/CodeArtist7071/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=CodeArtist7071)
 [website]: https://techbites.co.in
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
