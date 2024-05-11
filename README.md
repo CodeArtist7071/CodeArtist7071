@@ -1,5 +1,5 @@
 
-##  WEB & UI DEVELOPER AND ANDROID DEVELOPER (JAVA)(KOTLIN)
+##  WEB & UI DEVELOPER AND REACT NATIVE DEVELOPER 
 Hi Seekers👏<br><br/>
 I'm Yogeshwar - aka [CodeArtist7071][website] 👋
 <br><br/>
